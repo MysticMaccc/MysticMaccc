@@ -5,11 +5,19 @@ About Me<br><br>
 Name: Sherwin Roxas<br>
 Location: Pulo, Cabuyao, Laguna, Philippines<br><br>
 
+TALL Stack<br>
 Skills<br><br>
 Tailwind CSS<br>
 Alpine JS<br>
 Laravel-Livewire<br>
 Laravel<br>
+MERN Stack<br>
+MEVN Stack<br>
+MongoDB<db>
+ExpressJS<br>
+ReactJS<br>
+VueJS<br>
+NodeJS<br>
 Bootstrap CSS<br>
 REST API Development<br>
 PHP<br>
@@ -24,7 +32,7 @@ Web Design<br>
 🚀 Sherwin Roxas 🌟<br>
 📧 Email: cosmicsher96@gmail.com / sherwinroxas602@gmail.com 📧<br>
 📱 Phone: +63950-909-8702 / +63994-215-2415 📱<br>
-💻 Laravel & Livewire Developer Extraordinaire 💻<br>
+💻 MERN,MEVN,TALL Stack Developer Extraordinaire 💻<br>
 🌐 Let's turn your ideas into reality! 🌐
 
 <!---
