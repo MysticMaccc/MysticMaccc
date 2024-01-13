@@ -5,8 +5,9 @@ About Me<br><br>
 Name: Sherwin Roxas<br>
 Location: Pulo, Cabuyao, Laguna, Philippines<br><br>
 
-TALL Stack<br>
+
 Skills<br><br>
+TALL Stack<br>
 Tailwind CSS<br>
 Alpine JS<br>
 Laravel-Livewire<br>
