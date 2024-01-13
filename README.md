@@ -1,5 +1,5 @@
 Hello, I'm Sherwin!
-Welcome to my GitHub profile! I'm an aspiring Laravel developer, and I'm passionate about web development and creating awesome applications.
+Welcome to my GitHub profile! I'm an aspiring Full stack developer, and I'm passionate about web development and creating awesome applications.
 
 About Me<br><br>
 Name: Sherwin Roxas<br>
